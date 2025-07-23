@@ -1,16 +1,16 @@
-# 🎬 Movie Store – OOP Lab 1
+# Movie Store – OOP Lab 1
 
 This Java console application simulates a basic **Movie Store**, allowing users to manage a collection of movies by genre, release year, and rating. It demonstrates fundamental principles of **Object-Oriented Programming (OOP)** such as encapsulation, composition, and method-based filtering.
 
 ---
 
-## 💻 Laboratory Context
+## Laboratory Context
 
 This project was developed as part of **Laboratory 1** for the course **Object-Oriented Programming (OOP)** at the **Technical University of Moldova (UTM)**.
 
 ---
 
-## 🧩 Structure
+## Structure
 
 The project contains 3 main Java classes:
 
@@ -48,7 +48,7 @@ Entry point of the application that:
 
 ---
 
-## 📚 Useful Links
+## Useful Links
 
 - [Official Java Documentation](https://docs.oracle.com/en/java/javase/)
 - [Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/)
@@ -56,7 +56,7 @@ Entry point of the application that:
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. **Install Java (JDK 8 or later)**  
    Download and install from the official source: [https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -85,7 +85,7 @@ Entry point of the application that:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 This project was developed as part of the **Object-Oriented Programming** course at **Technical University of Moldova (UTM)**.
 
