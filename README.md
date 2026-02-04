@@ -19,8 +19,6 @@ Represents a single movie object with the following attributes:
 - `releaseYear` – year of release
 - `rating` – rating score (e.g., IMDb)
 
----
-
 ### 2. `MovieStore.java`
 
 Handles a list of movies and provides filtering and sorting operations.
